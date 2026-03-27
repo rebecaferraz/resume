@@ -20,7 +20,7 @@ Hellow! Welcome to my professional resume repository.
 
 I decided to code my own resume using **pure HTML and CSS** to ensure a clean, minimalist design that is **100% optimized for ATS** (Applicant Tracking Systems). This approach gives me full control over formatting and keeps a versioned history of my progress at CESAR School! 🫧
 
- **Live Preview:** 
+ **Live Preview:** https://rebecaferraz.github.io/resume/resume-en.html
 
 ## How to generate the PDF
 If you'd like to download the PDF version of my resume:
