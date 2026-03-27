@@ -1,4 +1,4 @@
-# 📄 Meu Currículo / My Resume (ATS-Friendly) 
+#  Meu Currículo / My Resume (ATS-Friendly) 
 
 *[Read in English below](#english)*
 
