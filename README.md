@@ -6,8 +6,7 @@ Hellow! Bem-vindo(a) ao repositório do meu currículo profissional.
 
 Decidi codificar meu próprio currículo utilizando **HTML e CSS puros** para garantir um design limpo, minimalista e **100% otimizado para sistemas ATS** (Applicant Tracking Systems). Essa abordagem me permite ter controle total sobre a formatação e manter um histórico das minhas evoluções! 
 
- **Visualização Online:** 
-
+ **Visualização Online:** https://rebecaferraz.github.io/resume/
 ## Como gerar o PDF
 Se você quiser baixar a versão em PDF do meu currículo:
 1. Acesse o link de visualização online acima (ou abra o arquivo `resume-pt.html` / `resume-en.html` no seu navegador).
