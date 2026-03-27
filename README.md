@@ -9,7 +9,7 @@ Decidi codificar meu próprio currículo utilizando **HTML e CSS puros** para ga
  **Visualização Online:** https://rebecaferraz.github.io/resume/
 ## Como gerar o PDF
 Se você quiser baixar a versão em PDF do meu currículo:
-1. Acesse o link de visualização online acima (ou abra o arquivo `resume-pt.html` / `resume-en.html` no seu navegador).
+1. Acesse o link de visualização online acima (ou abra o arquivo `index.html` / `resume-en.html` no seu navegador).
 2. Pressione `Ctrl+P` (Windows/Linux) ou `Cmd+P` (Mac).
 3. Selecione a opção **"Salvar como PDF"**. As margens e quebras de página já estão perfeitamente configuradas via CSS!
 
@@ -24,7 +24,7 @@ I decided to code my own resume using **pure HTML and CSS** to ensure a clean, m
 
 ## How to generate the PDF
 If you'd like to download the PDF version of my resume:
-1. Open the live preview link above (or open the `resume-en.html` / `resume-pt.html` file in your browser).
+1. Open the live preview link above (or open the `resume-en.html` / `index.html` file in your browser).
 2. Press `Ctrl+P` (Windows/Linux) or `Cmd+P` (Mac).
 3. Select the **"Save as PDF"** option. Margins and page breaks are already perfectly configured via CSS!
 
