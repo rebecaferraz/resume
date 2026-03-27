@@ -15,15 +15,15 @@ Se você quiser baixar a versão em PDF do meu currículo:
 3. Selecione a opção **"Salvar como PDF"**. As margens e quebras de página já estão perfeitamente configuradas via CSS!
 
 <a id="english"></a>
-# 📄 My Resume (ATS-Friendly) 
+# My Resume (ATS-Friendly) 
 
 Hellow! Welcome to my professional resume repository.
 
 I decided to code my own resume using **pure HTML and CSS** to ensure a clean, minimalist design that is **100% optimized for ATS** (Applicant Tracking Systems). This approach gives me full control over formatting and keeps a versioned history of my progress at CESAR School! 🫧
 
-🌍 **Live Preview:** 
+ **Live Preview:** 
 
-## 🚀 How to generate the PDF
+## How to generate the PDF
 If you'd like to download the PDF version of my resume:
 1. Open the live preview link above (or open the `resume-en.html` / `resume-pt.html` file in your browser).
 2. Press `Ctrl+P` (Windows/Linux) or `Cmd+P` (Mac).
